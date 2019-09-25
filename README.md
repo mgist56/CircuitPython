@@ -18,4 +18,6 @@ https://learn.adafruit.com/i2c-spi-lcd-backpack/python-circuitpython
 https://learn.adafruit.com/circuitpython-essentials/circuitpython-digital-in-out
 ## CircuitPython Photointerrupters Meg
 Fourth CircuitPython Assignment; photointerrupter interrupt counter.
-## Resources
+### Resources
+## CircuitPython Distance Sensor Meg
+Fith CircuitPython assignment; NeoPixel color change with HCSRO4 sensor.
