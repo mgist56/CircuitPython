@@ -1,3 +1,5 @@
+# Meg Gist
+# CircuitPython Distance Sensor
 import time
 import board
 import adafruit_hcsr04
@@ -11,6 +13,7 @@ g = 0
 # [0, ... , 20]
 # [255, ... , 0]
 while True:
+# So turns out it's literally a function
     try:
         dist = radishBat.distance
         if dist <= 20:
