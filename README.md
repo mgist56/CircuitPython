@@ -5,6 +5,8 @@ Meg CircuitPython
 First CircuitPython assignment; making an LED fade in and out.
 ### Resources
 https://learn.adafruit.com/series/adafruit-io-basics
+### Wiring
+<img src="Hello CircuitPython_bb.jpg" width="150">
 
 ## CircuitPython Servo
 Second CircuitPython assignment; servo direction using capacitive touch.
