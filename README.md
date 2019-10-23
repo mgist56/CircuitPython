@@ -42,6 +42,7 @@ Fith CircuitPython assignment; NeoPixel color change with HCSRO4 sensor.
 ## CircuitPython RGB
 Sixth CircuitPython assignment; common anode RGB LED color change with RGB library.
 ### Resources
+https://www.hackster.io/techmirtz/using-common-cathode-and-common-anode-rgb-led-with-arduino-7f3aa9
 ### Wiring
 <img src="Media/CircuitPythonRGB.jpg" width="300">
 
