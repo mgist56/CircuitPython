@@ -8,7 +8,7 @@ First CircuitPython assignment; making an LED fade in and out.
 ### Resources
 https://learn.adafruit.com/series/adafruit-io-basics
 ### Wiring
-<img src="CircuitPython Distance Sensor_bb_150x100.jpg" width="150">
+![CircuitPython Distance Sensor](https://github.com/mgist56/CircuitPython/tree/master/Media/JPGs/CircuitPython Distance Sensor_bb.jpg)
 
 ## CircuitPython Servo
 Second CircuitPython assignment; servo direction using capacitive touch.
