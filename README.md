@@ -8,13 +8,15 @@ First CircuitPython assignment; making an LED fade in and out.
 ### Resources
 https://learn.adafruit.com/series/adafruit-io-basics
 ### Wiring
-![CircuitPython Distance Sensor](Media/JPGs/CircuitPython Distance Sensor_bb.jpg)
+<img src="Media/HelloCircuitPython.jpg" width="300">
 
 ## CircuitPython Servo
 Second CircuitPython assignment; servo direction using capacitive touch.
 ### Resources
 https://learn.adafruit.com/sensor-plotting-with-mu-and-circuitpython/capacitive-touch
 https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython/circuitpython-servo
+### Wiring
+<img src="Media/CircuitPythonServo.jpg" width="300">
 
 ## CircuitPython LCD
 Third CircuitPython assignment; button/switch counter on LCD.
@@ -22,45 +24,35 @@ Third CircuitPython assignment; button/switch counter on LCD.
 https://learn.adafruit.com/sensor-plotting-with-mu-and-circuitpython/buttons-and-switch
 https://learn.adafruit.com/i2c-spi-lcd-backpack/python-circuitpython
 https://learn.adafruit.com/circuitpython-essentials/circuitpython-digital-in-out
+### Wiring
+<img src="Media/CircuitPythonLCD.jpg" width="300">
 
 ## CircuitPython Photointerrupters
 Fourth CircuitPython Assignment; photointerrupter interrupt counter.
 ### Resources
+### Wiring
+<img src="Media/CircuitPythonPhotointerrupters.jpg" width="300">
 
 ## CircuitPython Distance Sensor
 Fith CircuitPython assignment; NeoPixel color change with HCSRO4 sensor.
 ### Resources
+### Wiring
+<img src="Media/HelloCircuitPython.jpg" width="300">
 
-## CircuitPython Classes, Objects, and Modules
+## CircuitPython RGB
 Sixth CircuitPython assignment; common anode RGB LED color change with RGB library.
 ### Resources
-
-
-## Hello VS Code
-Seventh CircuitPython assignment; 
-### Resources
-
+### Wiring
+<img src="Media/CircuitPythonRGB.jpg" width="300">
 
 ## CircuitPython Fancy LED
 Eighth CircuitPython assignment; six LED patterns using four custom meathods.
 ### Resources
-
-
-## Git and Github Hello Git
-
-### Resources
-
-
-## Git and Github Hello GitHub
-
-### Resources
-
-
-## Git and Github Git - Forks and Clones
-
-### Resources
-
+### Wiring
+<img src="Media/CircuitPythonFancyLED.jpg" width="300">
 
 ## Assignment Template
 
 ### Resources
+
+### Wiring
