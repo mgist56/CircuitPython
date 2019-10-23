@@ -3,6 +3,8 @@ Meg CircuitPython
 
 https://github.com/chssigma/Markdown_Cheatsheet
 
+http://wiki.chssigma.com/index.php?title=User:Mgist56
+
 ## Hello CircuitPython
 First CircuitPython assignment; making an LED fade in and out.
 ### Resources
