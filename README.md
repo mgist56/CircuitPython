@@ -12,7 +12,8 @@ https://learn.adafruit.com/series/adafruit-io-basics
 ### Wiring
 <img src="Media/HelloCircuitPython.jpg" width="300">
 ### Takeaways
-CircuitPython coding is weird. "While True:" is basically the same thing as "void loop(){}" and for “time.sleep(secs)” (which is the Python equivalent of Arduino’s “delay(ms)”) you need to import time at the top of your code. I used an [elif statment](https://www.programiz.com/python-programming/if-elif-else) to change the way the LED was fading (brightening or dimming).
+CircuitPython coding is weird. "While True:" is basically the same thing as "void loop(){}" and for “time.sleep(secs)” (which is the Python equivalent of Arduino’s “delay(ms)”) you need to import time at the top of your code. I used an 
+elif statement to change the way the LED was fading (brightening or dimming).
 
 ## CircuitPython Servo
 Second CircuitPython assignment; servo direction using capacitive touch.
