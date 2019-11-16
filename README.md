@@ -19,6 +19,7 @@ elif statement to change the way the LED was fading (brightening or dimming).
 Second CircuitPython assignment; servo direction using capacitive touch.
 ### Resources
 https://learn.adafruit.com/sensor-plotting-with-mu-and-circuitpython/capacitive-touch
+
 https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython/circuitpython-servo
 ### Wiring
 <img src="Media/CircuitPythonServo.jpg" width="300">
@@ -29,7 +30,9 @@ Capacitive touch/cap touch uses touchio. “if not touch_A0.value and not touch_
 Third CircuitPython assignment; button/switch counter on LCD.
 ### Resources
 https://learn.adafruit.com/sensor-plotting-with-mu-and-circuitpython/buttons-and-switch
+
 https://learn.adafruit.com/i2c-spi-lcd-backpack/python-circuitpython
+
 https://learn.adafruit.com/circuitpython-essentials/circuitpython-digital-in-out
 ### Wiring
 <img src="Media/CircuitPythonLCD.jpg" width="300">
