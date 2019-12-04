@@ -84,7 +84,7 @@ Eighth CircuitPython assignment; six LED patterns using four custom methods.
 <img src="Media/CircuitPythonFancyLED.jpg" width="300">
 
 ### Takeaways
-If you can recycle old code, do so. This assignment is pretty much the exact same thing as the CircuitPython RGB assignment but with six LEDs instead of two common anode RGB LEDs. I found it especially useful to use variables when setting the values for each self.led.value because it saved me from typing out the words “true” and “false” an excessive amount of times. However, a note to self: use variables that make sense instead of just random letters that you will probably forget the assigned values to. “T” and “F” will do just fine next time.
+If you can recycle old code, do so. This assignment is pretty much the exact same thing as the CircuitPython RGB assignment but with six LEDs instead of two common anode RGB LEDs. I found it especially useful to use variables when setting the values for each self.led.value because it saved me from typing out the words “true” and “false” an excessive amount of times. However, note to self: use variables that make sense instead of just random letters that you will probably forget the assigned values to. “T” and “F” will do just fine next time.
 
 ## Assignment Template
 
